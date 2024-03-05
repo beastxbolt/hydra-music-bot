@@ -1,0 +1,7 @@
+discord
+spotipy
+asyncio
+selenium
+youtube_dl
+lyricsgenius
+google-api-python-client

@@ -1,0 +1,6 @@
+bot_token = ""
+lyrics_genius_token = ""
+developer_key = ""
+spotify_client_id = ""
+spotify_client_secret = ""
+splashart_url = "https://cdn.hydra.bot/hydra_no_music.png"
